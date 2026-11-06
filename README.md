@@ -9,19 +9,24 @@ Estudante de **Engenharia Informática** na **Universidade Eduardo Mondlane (UEM
 ### 🚀 Sobre Mim
 
 - 🎓 A frequentar a licenciatura em **Engenharia Informática (UEM)**.
-- 💡 Experiência em desenvolvimento de aplicações web modernas, plataformas colaborativas e automação de processos.
+- 💡 Experiência em desenvolvimento de aplicações web modernas, algoritmos de inteligência artificial e sistemas em Java/PHP/Node.js.
 - 🛠️ Competências em suporte técnico, diagnóstico de sistemas e implementação de topologias de rede (VLANs, OSPF, ACLs, RSTP).
-- 🧠 Interesse contínuo em cibersegurança e aplicações práticas de Inteligência Artificial / Machine Learning.
-- 💬 Fala comigo sobre: **React, TypeScript, PHP, Node.js, Redes Cisco e Projectos Académicos/Sociais**.
+- 🧠 Em constante evolução em Machine Learning com Python e boas práticas de engenharia de software.
+- 💬 Fala comigo sobre: **Python, Java, React, TypeScript, PHP, Redes Cisco e Projectos Universitários**.
 
 ---
 
 ### 💻 Tecnologias & Ferramentas
 
-#### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+#### **Linguagens de Programação**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+#### **Frontend & Frameworks**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,7 +34,6 @@ Estudante de **Engenharia Informática** na **Universidade Eduardo Mondlane (UEM
 #### **Backend & Bases de Dados**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -48,8 +52,9 @@ Estudante de **Engenharia Informática** na **Universidade Eduardo Mondlane (UEM
 | Projecto | Descrição | Principais Tecnologias |
 | :--- | :--- | :--- |
 | 🎓 **RedesFENG** | Rede social e plataforma de colaboração e talentos concebida para a Faculdade de Engenharia da UEM (equipas para TFC/hackathons, legado académico e comunidades). | `React` `TypeScript` `Tailwind` `Supabase` |
-| 🛡️ **Detecção de Fraudes ATM** | Investigação e aplicação de algoritmos de Machine Learning para detecção preventiva de levantamentos e transacções fraudulentas. | `Python` `Machine Learning` |
+| 🛡️ **Detecção de Fraudes ATM** | Sistema focado em Inteligência Artificial para prevenção e identificação de transacções bancárias anómalas e não autorizadas. | `Python` `Machine Learning` |
 | 📋 **SGEI-UEM** | Sistema de Gestão de Expediente Institucional, desenvolvido para optimizar o fluxo e arquivo de processos administrativos na universidade. | `PHP` `MySQL` `Web` |
+| 💼 **Sistema de Emprego** | Aplicação orientada à gestão de vagas, candidaturas e processos de recrutamento e emprego. | `Java` `Sistemas` |
 | 🚗 **Lava Já Matola** | Plataforma de gestão para centros de lavagem automóvel com agendamento online, controlo operacional e fidelização de clientes. | `JavaScript` `PHP` `MySQL` |
 | 🌐 **Laboratórios de Redes & Infraestruturas** | Implementações e simulações de redes empresariais com configuração de VLANs, OSPF, ACLs e segurança comutador/roteador. | `Cisco Packet Tracer` `Networking` |
 | 🛠️ **Suporte-Trabalhos** | Plataforma e serviços práticos orientados a suporte técnico, diagnóstico, manutenção e consultoria informática. | `Hardware & Sistemas` |
